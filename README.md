@@ -2,9 +2,9 @@
 <h3>Açıklama: Lojistik regresyon ile tahmin</h3>
 <h3>Katkı Sağlayanlar</h3>
 <ul>
-  <li>Eylül Ece Yıldırım <a href="https://github.com/eyllcyldrm" title="Github Profile Of Eylul Ece Yildirim"></li>
-  <li>Feyza Şahin <a href="https://github.com/eyllcyldrm" title="Github Profile Of Eylul Ece Yildirim"></li>
-  <li>Semih Gençtürk <a href="https://github.com/semihgencturk" title="Github Profile Of Semih Gencturk"></li>
+  <li><a href="https://github.com/eyllcyldrm" title="Go to Github Profile Of Eylul Ece Yildirim"> Eylül Ece Yıldırım </a></li>
+  <li><a href="https://github.com/eyllcyldrm" title="Go to Github Profile Of Feyza Sahin"> Feyza Şahin </a></li>
+  <li><a href="https://github.com/semihgencturk" title="Go to Github Profile Of Semih Gencturk"> Semih Gençtürk </a></li>
 </ul>
 <hr>
 <hr>

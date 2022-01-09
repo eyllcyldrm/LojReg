@@ -2,7 +2,7 @@
 <h3>Açıklama: Lojistik regresyon ile tahmin</h3>
 <hr>
 <hr>
-<h4><i><u> Lojistik Regresyon Nedir? </i></u></h4>
+<h4><u><i> Lojistik Regresyon Nedir? </i></u></h4>
 <p> lineer reg ten farklı olarak y değişkeni kategoriktir. Kategorik bir yanıt değişkeninin tahmin edilmesine sınıflandırma denmiş olur. Amacımız henüz gözlenmemiş bir x değşkeni için sınıfını yani y değerini tahmin etmektir. Genellikle x in her bir kategoriye ait olma olasılıkları ile ilgilenilir. Sınıf tahminlerinin iyiliği yanlış sınıflandırma oranı ya da doğru sınıflandırma oranı ile ölçülür. </p>
 <hr>
 <h4><u><i> Neden loj reg sınıflandırıcısı? </i></u></h4>

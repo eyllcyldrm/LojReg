@@ -3,7 +3,7 @@
 <h3>🐱 Katkı Sağlayanlar: </h3>
 <ul>
   <li><a href="https://github.com/eyllcyldrm" title="Go to Github Profile Of Eylul Ece Yildirim"> Eylül Ece Yıldırım </a></li>
-  <li><a href="https://github.com/eyllcyldrm" title="Go to Github Profile Of Feyza Sahin"> Feyza Şahin </a></li>
+  <li><a href="https://github.com/feysahin" title="Go to Github Profile Of Feyza Sahin"> Feyza Şahin </a></li>
   <li><a href="https://github.com/semihgencturk" title="Go to Github Profile Of Semih Gencturk"> Semih Gençtürk </a></li>
 </ul>
 <hr>

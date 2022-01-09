@@ -1,4 +1,4 @@
-<h1>Konu: LojReg</h1>
+<h2><u>Konu: LojReg</u></h2>
 <h3>Açıklama: Lojistik regresyon ile tahmin</h3>
 <hr>
 <hr>

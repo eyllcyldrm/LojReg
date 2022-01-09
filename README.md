@@ -1,5 +1,5 @@
-<h2><u>Konu: LojReg</u></h2>
-<h3>Açıklama: Lojistik regresyon ile tahmin</h3>
+<h2>**Konu:** LojReg</h2>
+<h3>**Açıklama:** Lojistik regresyon ile tahmin</h3>
 <hr>
 <hr>
 <h4><u><i> Lojistik Regresyon Nedir? </i></u></h4>

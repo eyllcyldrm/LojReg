@@ -1,5 +1,5 @@
-<h2>🔎 Konu: LojReg</h2>
-<h3>📜 Açıklama: Lojistik regresyon ile tahmin</h3>
+<h2>🔎 Konu: LojReg</h2><hr>
+<h3>📜 Açıklama: Lojistik regresyon ile tahmin</h3><hr>
 <h3>🐱 Katkı Sağlayanlar</h3>
 <ul>
   <li><a href="https://github.com/eyllcyldrm" title="Go to Github Profile Of Eylul Ece Yildirim"> Eylül Ece Yıldırım </a></li>

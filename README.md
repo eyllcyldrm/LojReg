@@ -1,2 +1,4 @@
-<h1>LojReg</h1>
-<h2>Lojistik regresyon ile tahmin</h2>
+<h1>Konu: LojReg</h1>
+<h2>Açıklama: Lojistik regresyon ile tahmin</h2>
+<hr>
+<hr>

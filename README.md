@@ -1,6 +1,6 @@
-<h2>Konu: LojReg</h2>
+<h2>🔎 Konu: LojReg</h2>
 <h3>📜 Açıklama: Lojistik regresyon ile tahmin</h3>
-<h3><img src="foo" title="*"/>Katkı Sağlayanlar</h3>
+<h3>🐱 Katkı Sağlayanlar</h3>
 <ul>
   <li><a href="https://github.com/eyllcyldrm" title="Go to Github Profile Of Eylul Ece Yildirim"> Eylül Ece Yıldırım </a></li>
   <li><a href="https://github.com/eyllcyldrm" title="Go to Github Profile Of Feyza Sahin"> Feyza Şahin </a></li>
